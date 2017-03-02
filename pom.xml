@@ -3,13 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.otc</groupId>
   <artifactId>hello-world</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
   <name>Jetty HelloWorld WebApp</name>
   <scm>
     <connection>scm:git:git@github.com:open-toolchain/maven-example.git</connection>
     <url>scm:git:git@github.com:open-toolchain/maven-example.git</url>
     <developerConnection>scm:git:git@github.com:open-toolchain/maven-example.git</developerConnection>
+    <tag>v1.0.0</tag>
   </scm>
   <properties>
     <jettyVersion>9.3.9.v20160517</jettyVersion>
